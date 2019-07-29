@@ -39,7 +39,7 @@ public class Demo1 {
 			driver.findElement(By.xpath("//*[@id='welcome-menu']/ul/li[2]/a")).click();	
 			driver.close(); // Close active browser instance
 			driver.quit(); //close all the browsers
-			System.out.println("Testing Github commit");
+			System.out.println("Testing Github commit1");
 			
 		}
 
